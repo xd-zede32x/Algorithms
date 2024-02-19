@@ -1,4 +1,4 @@
 # Algorithms
 
-• Bubble Sort
-#• Cocktail Sort
+# • Bubble Sort
+• Cocktail Sort
