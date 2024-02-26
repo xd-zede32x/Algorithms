@@ -14,7 +14,7 @@ namespace Algorithm
 
             while (index < Items.Count)
             {
-                if (index == 0 || Compare(Items[index], Items[index - 1]) == 1)
+                if (index == 0 || Compare(Items[index], Items[index - 1]) == 1 || Compare(Items[index], Items[index - 1]) == 0)
                     index++;
 
                 else
