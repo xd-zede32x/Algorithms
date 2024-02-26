@@ -6,3 +6,4 @@
 # • Sell Sort
 # • Tree Sort 
 # • HeapSort
+# • SelectionSort
