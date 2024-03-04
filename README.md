@@ -7,3 +7,4 @@
 # • Tree Sort 
 # • HeapSort
 # • SelectionSort
+# • RadixSort
